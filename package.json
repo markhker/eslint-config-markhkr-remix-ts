@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-markhkr-remix-ts",
+  "name": "@karimdev/eslint-config-markhkr-remix-ts",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
