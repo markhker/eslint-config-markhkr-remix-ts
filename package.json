@@ -1,0 +1,29 @@
+{
+  "name": "eslint-config-markhkr-remix-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "ESLint and Remix TS Config from Mark Hkr",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/markhker/eslint-config-markhkr-remix-ts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/markhker/eslint-config-markhkr-remix-ts/issues"
+  },
+  "homepage": "https://github.com/markhker/eslint-config-markhkr-remix-ts",
+  "author": "Mark Hkr <markhker@gmail.com> (marlom.dev)",
+  "keywords": [
+    "javascript",
+    "ecmascript",
+    "eslint",
+    "lint",
+    "config",
+    "remix",
+    "typescript"
+  ],
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix"
+  }
+}
