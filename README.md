@@ -19,7 +19,7 @@ You can use eslint globally and/or locally per project.
 ```json
 {
   "extends": [
-    "markhkr"
+    "@karimdev/eslint-config-markhkr-remix-ts"
   ]
 }
 ```
