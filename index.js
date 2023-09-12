@@ -18,6 +18,7 @@ module.exports = {
     'comma-spacing': ['error', { after: true }],
     'object-curly-spacing': ['error', 'always'],
     'eol-last': 'error',
+    'no-multi-spaces': 'error',
     'jsx-quotes': ['error', 'prefer-double'],
     'react-hooks/exhaustive-deps': 0,
     'react/jsx-indent': ['error', 2, {
