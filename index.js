@@ -2,16 +2,6 @@ module.exports = {
   rules: {
     'react/jsx-closing-bracket-location': ['error', { selfClosing: 'line-aligned' }],
     '@typescript-eslint/triple-slash-reference': 'off',
-    '@typescript-eslint/member-delimiter-style': ['error', {
-      multiline: {
-        delimiter: 'none',
-        requireLast: false,
-      },
-      singleline: {
-        delimiter: 'comma',
-        requireLast: false,
-      },
-    }],
     quotes: ['error', 'single', { avoidEscape: true, allowTemplateLiterals: false }],
     'quote-props': ['error', 'as-needed'],
     semi: ['error', 'never'],
