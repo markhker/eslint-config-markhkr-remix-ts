@@ -1,6 +1,6 @@
 {
   "name": "@karimdev/eslint-config-markhkr-remix-ts",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "license": "MIT",
   "description": "ESLint and Remix TS Config from Mark Hkr",
